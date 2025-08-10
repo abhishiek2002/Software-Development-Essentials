@@ -1,0 +1,15 @@
+D:\Software-Development-Essentials\06 Learning C#\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.exe
+D:\Software-Development-Essentials\06 Learning C#\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.deps.json
+D:\Software-Development-Essentials\06 Learning C#\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.runtimeconfig.json
+D:\Software-Development-Essentials\06 Learning C#\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.dll
+D:\Software-Development-Essentials\06 Learning C#\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.pdb
+D:\Software-Development-Essentials\06 Learning C#\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software-Development-Essentials\06 Learning C#\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.AssemblyInfoInputs.cache
+D:\Software-Development-Essentials\06 Learning C#\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.AssemblyInfo.cs
+D:\Software-Development-Essentials\06 Learning C#\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+D:\Software-Development-Essentials\06 Learning C#\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.sourcelink.json
+D:\Software-Development-Essentials\06 Learning C#\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.dll
+D:\Software-Development-Essentials\06 Learning C#\HelloWorldApp\obj\Debug\net9.0\refint\HelloWorldApp.dll
+D:\Software-Development-Essentials\06 Learning C#\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.pdb
+D:\Software-Development-Essentials\06 Learning C#\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.genruntimeconfig.cache
+D:\Software-Development-Essentials\06 Learning C#\HelloWorldApp\obj\Debug\net9.0\ref\HelloWorldApp.dll
